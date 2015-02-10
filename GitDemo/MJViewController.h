@@ -9,5 +9,5 @@
 #import <UIKit/UIKit.h>
 
 @interface MJViewController : UIViewController
-
+-(void)aVeryCoolMethod;
 @end

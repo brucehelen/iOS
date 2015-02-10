@@ -20,6 +20,10 @@
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
+- (void)aVeryCoolMethod
+{
+    NSLog(@"I'm feeling that you'll discard me... Really?");
+}
 
 
 @end
